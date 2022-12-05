@@ -8,7 +8,6 @@ from inspect import *
 
 from matrix import *
 
-
 def main():
 	foo = Matrix(2, 3)
 	foo[0, 0] = 69.1
